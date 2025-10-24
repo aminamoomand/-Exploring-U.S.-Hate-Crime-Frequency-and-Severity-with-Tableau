@@ -28,7 +28,7 @@ The full Statement of Work detailing project scope, activities, and deliverables
 4. Customize dashboards (colors, tooltips) and publish to Tableau Public.  
 
 ## Dashboard Access
-[View Tableau Dashboard](https://public.tableau.com/app/profile/amina.moomand/vizzes) 
+[View Tableau Dashboard](https://public.tableau.com/app/profile/amina.moomand/viz/ExploringRegionalPatternsinU_S_HateCrimeData/Story1) 
 
 ## License
 This project is open-source under the MIT License — see [LICENSE](LICENSE) for details.
@@ -36,4 +36,4 @@ This project is open-source under the MIT License — see [LICENSE](LICENSE) for
 ## Author
 **Amina Moomand**  
 [amina.moomand@gmail.com]  
-[LinkedIn](www.linkedin.com/in/aminamoomand) | [GitHub](https://github.com/aminamoomand)
+[LinkedIn](https://www.linkedin.com/in/aminamoomand/) | [GitHub](https://github.com/aminamoomand)

@@ -1,4 +1,4 @@
-# Exploring-U.S.-Hate-Crime-Frequency-and-Severity-with-Tableau
+# Exploring U.S. Hate Crime Frequency and Severity with Tableau
 
 ## Overview
 This project analyzes FBI-reported hate crime data across the United States to explore which regions experience the most frequent and most severe hate crimes. Using Tableau, the analysis focuses on aggregated, descriptive insights through interactive dashboards rather than predictive modeling or policy interpretation.
